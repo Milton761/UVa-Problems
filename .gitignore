@@ -1,1 +1,11 @@
+#default exec 
 main
+
+#default input text file
+input.txt
+
+#default output text file
+output.txt
+
+#default result text file
+result.txt
